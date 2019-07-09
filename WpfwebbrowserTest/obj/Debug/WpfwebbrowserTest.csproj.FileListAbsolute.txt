@@ -1,0 +1,14 @@
+c:\users\14923\documents\visual studio 2015\Projects\WpfwebbrowserTest\WpfwebbrowserTest\bin\Debug\WpfwebbrowserTest.exe.config
+c:\users\14923\documents\visual studio 2015\Projects\WpfwebbrowserTest\WpfwebbrowserTest\bin\Debug\WpfwebbrowserTest.exe
+c:\users\14923\documents\visual studio 2015\Projects\WpfwebbrowserTest\WpfwebbrowserTest\bin\Debug\WpfwebbrowserTest.pdb
+c:\users\14923\documents\visual studio 2015\Projects\WpfwebbrowserTest\WpfwebbrowserTest\obj\Debug\WpfwebbrowserTest.csprojResolveAssemblyReference.cache
+c:\users\14923\documents\visual studio 2015\Projects\WpfwebbrowserTest\WpfwebbrowserTest\obj\Debug\MainWindow.g.cs
+c:\users\14923\documents\visual studio 2015\Projects\WpfwebbrowserTest\WpfwebbrowserTest\obj\Debug\App.g.cs
+c:\users\14923\documents\visual studio 2015\Projects\WpfwebbrowserTest\WpfwebbrowserTest\obj\Debug\WpfwebbrowserTest_MarkupCompile.cache
+c:\users\14923\documents\visual studio 2015\Projects\WpfwebbrowserTest\WpfwebbrowserTest\obj\Debug\WpfwebbrowserTest_MarkupCompile.lref
+c:\users\14923\documents\visual studio 2015\Projects\WpfwebbrowserTest\WpfwebbrowserTest\obj\Debug\MainWindow.baml
+c:\users\14923\documents\visual studio 2015\Projects\WpfwebbrowserTest\WpfwebbrowserTest\obj\Debug\WpfwebbrowserTest.g.resources
+c:\users\14923\documents\visual studio 2015\Projects\WpfwebbrowserTest\WpfwebbrowserTest\obj\Debug\WpfwebbrowserTest.Properties.Resources.resources
+c:\users\14923\documents\visual studio 2015\Projects\WpfwebbrowserTest\WpfwebbrowserTest\obj\Debug\WpfwebbrowserTest.csproj.GenerateResource.Cache
+c:\users\14923\documents\visual studio 2015\Projects\WpfwebbrowserTest\WpfwebbrowserTest\obj\Debug\WpfwebbrowserTest.exe
+c:\users\14923\documents\visual studio 2015\Projects\WpfwebbrowserTest\WpfwebbrowserTest\obj\Debug\WpfwebbrowserTest.pdb
